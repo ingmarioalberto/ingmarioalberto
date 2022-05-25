@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ingmarioalberto
+- 👀 I’m interested in Servers, Programming (PHP, Basic, Javascript) 
+- 🌱 I’m currently learning B4A
+- 💞️ I’m looking to collaborate on myself
+- 📫 How to reach me ... here...
